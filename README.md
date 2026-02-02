@@ -195,3 +195,6 @@ Multi-language support is built in (10 languages) but some translations might ne
 ## Contributing
 
 Feel free to open issues or PRs. I'm not super strict about code style as long as it works and is readable.
+=======
+# NearCraft
+>>>>>>> 667502afa32bd6a445cc45b29c13897cd508e1de
